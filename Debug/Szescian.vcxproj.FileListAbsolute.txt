@@ -1,0 +1,3 @@
+C:\Users\przem\Desktop\Grafika OpenGL\Sześcian\Debug\Szescian.vcxproj.AssemblyReference.cache
+C:\Users\przem\Desktop\Grafika OpenGL\Sześcian\Debug\Szescian.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\przem\Desktop\Grafika OpenGL\Sześcian\Debug\szescian.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\przem\Desktop\Grafika OpenGL\Sześcian\main.cpp(341,3): warning C4838: konwersja z „int” do „BYTE” wymaga konwersji zawężającej
+C:\Users\przem\Desktop\Grafika OpenGL\Sześcian\main.cpp(437,14): warning C4244: "inicjowanie": konwersja z "ULONGLONG" do "int", możliwa utrata danych
+  main.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Szescian.vcxproj -> C:\Users\przem\Desktop\Grafika OpenGL\Sześcian\Debug\szescian.exe
